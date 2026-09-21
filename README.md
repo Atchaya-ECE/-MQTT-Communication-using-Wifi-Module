@@ -19,10 +19,8 @@ To control an electrical device remotely through a cloud platform using MQTT com
 - MQTT Broker / MQTT Service
 
 # Circuit Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1f09d54-be3a-4a64-bb46-cc138068fc95" />
 
----
-To upload
----
 
 # Procedure
 
